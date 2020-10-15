@@ -1,0 +1,4 @@
+guide:
+if the computer cannot find an answer, it is not of that bit integer
+example: if you enter 64 bit, and it doesn't calculate, it is 32 bit or lower, then if it cannot calculate the 32 bit, it is 16 bit or lower, all the way down to 4 bit
+if the 4 bit integer equation doesn't work, try the 2 bit. if that doesn't work, try the 1 bit. If 1 bit doesn't work, that means this program is not working correctly, or it is a 1 bit system

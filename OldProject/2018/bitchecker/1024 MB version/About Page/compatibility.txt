@@ -1,0 +1,153 @@
+compatibility:
+
+MS-DOS 1x 
+MS-DOS 2x
+MS-DOS 3x
+MS-DOS 4x
+MS-DOS 5x
+MS-DOS 6x
+MS-DOS 7x
+Windows 1x
+Windows 2x
+Windows 2.1x
+Windows 3x
+Windows 3.1x
+Windows 3.5X
+Windows NT 3.1x
+Windows NT 3.5x
+Windows NT 4x
+Windows NT 5x
+Windows 95
+Windows 95 plus!
+Windows 95 plus! for kids
+Windows 98 
+Windows 98 plus!
+Windows 2000 (all editions)
+Windows ME (all editions)
+Windows XP (all editions)
+Windows XP Plus! (all editions)
+Windows Vista (all editions)
+Windows 7 (all editions)
+Windows 8 (all editions)
+Windows 8.1 (all editions)
+Windows 10 (all editions)
+Windows 12 (all editions)
+Ubuntu 4x
+Ubuntu 5x
+Ubuntu 6x
+Ubuntu 7x
+Ubuntu 8x
+Ubuntu 9x 
+Ubuntu 10x
+Ubuntu 11x
+Ubuntu 12x
+Ubuntu 13x
+Ubuntu 14x
+Ubuntu 15x
+Ubuntu 16x
+Ubuntu 17x
+Ubuntu 18x
+Android 1x
+Android 2x
+Android 3x
+Android 4x
+Android 5x
+Android 6x
+Android 7x
+Android 8x
+Mac System 1x
+Mac System 2x
+Mac System 3x
+Mac System 4x
+Mac System 5x
+Mac System 6x
+Mac System 7x
+Mac System 8x
+Mac System 9x
+Mac OS X
+Mac OS X 10.1
+Mac OS X 10.2
+Mac OS X 10.3
+Mac OS X 10.4
+Mac OS X 10.5
+Mac OS X 10.6
+Mac OS X 10.7
+Mac OS X 10.8
+Mac OS X 10.9
+Mac OS X 10.10
+Mac OS X 10.11
+Mac OS X 10.12
+IOS 1x
+IOS 2x
+IOS 3x
+IOS 4x
+IOS 5x
+IOS 6x
+IOS 7x
+IOS 8x
+IOS 9x
+IOS 10x
+IOS 11x
+IOS 12x
+Windows Server 2003
+Windows Server 2003 R2
+Windows Server 2005 SQL
+Windows Server 2008 
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+RHEL 2x
+RHEL 3x
+RHEL 4x
+RHEL 5x
+RHEL 6x
+RHEL 7x
+FreeBSD 1x
+FreeBSD 2x
+FreeBSD 3x
+FreeBSD 4x
+FreeBSD 5x
+FreeBSD 6x
+FreeBSD 7x
+FreeBSD 8x
+FreeBSD 9x
+FreeBSD 10x
+FreeBSD 11x
+Linux Fedora 1x
+Linux Fedora 2x
+Linux Fedora 3x
+Linux Fedora 4x
+Linux Fedora 5x
+Linux Fedora 6x
+Linux Fedora 7x
+Linux Fedora 8x
+Linux Fedora 9x
+Linux Fedora 10x
+Linux Fedora 11x
+Linux Fedora 12x
+Linux Fedora 13x
+Linux Fedora 14x
+Linux Fedora 15x
+Linux Fedora 16x
+Linux Fedora 17x
+Linux Fedora 18x
+Linux Fedora 19x
+Linux Fedora 20x
+Linux Fedora 21x
+Linux Fedora 22x
+Linux Fedora 23x
+Linux Fedora 24x
+Linux Fedora 25x
+Linux Fedora 26x
+Solaris 1x
+Solaris 2x
+Solaris 3x
+Solaris 4x
+Solaris 5x
+Solaris 6x
+Solaris 7x
+Solaris 8x
+Solaris 9x
+Solaris 10x
+Solaris 11x

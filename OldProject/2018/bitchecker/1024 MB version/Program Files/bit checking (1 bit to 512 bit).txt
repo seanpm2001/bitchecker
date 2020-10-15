@@ -1,0 +1,56 @@
+bit tester
+
+check for 1 bit
+
+calculate: 1 * 1
+answer should be: 1
+
+check for 2 bit
+
+calculate 2 * 1
+answer should be: 2
+
+check for 4 bit
+
+calculate: 2 (square 3)
+answer should be: 16
+
+check for 8 bit
+
+calculate: 2 (square) 8
+answer should be: 256
+
+check for 16 bit
+
+calculate: 2 (square) 16
+answer should be: 65,536
+
+check for 32 bit
+
+calculate: 2 (square) 31 - 1
+answer should be: 2,147,483,647
+
+check for 64 bit
+
+calculate: - 2 (square) 63
+answer should be: 9,223,372,036,854,775,807
+
+check for 128 bit
+
+calculate: 2 (square) 127 -1 
+answer should be: 170,141,183,460,469,231,731,687,303,715,884,105,727
+
+check for 256 bit
+
+calculate: 2 (square)
+answer should be:
+
+check for 512 bit
+
+calculate: 2 (square)
+answer should be:
+
+
+
+
+
